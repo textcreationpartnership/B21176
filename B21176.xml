@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Deplorable case of the officers, innkeepers, and clothiers that served in, quartered, and cloathed the army raised by an act of Parliament, in 1677, and disbanded by another act, in 1679.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21176</idno><idno type="EEBO-CITATION">11752825</idno>
+  <idno type="VID">205089</idno>
+  <idno type="EEBO-PROQUEST">2240883126</idno>
+  
+            <idno type="STC">Wing D1071</idno>
+            <idno type="OCLC">11752825</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205089)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1483:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Deplorable case of the officers, innkeepers, and clothiers that served in, quartered, and cloathed the army raised by an act of Parliament, in 1677, and disbanded by another act, in 1679.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Finance.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205089:1"/>
+            <head>THE Deplorable CASE OF THE Officers, Inn-keepers, and Clothiers, that Served in, Quartered, and Cloathed the Army raised by an Act of Parliament, in 1677. and Disbanded by another Act, in 1679.</head>
+            <p>THAT the said Army being Raised to enter into an actual War against the <hi>French</hi> King; several of the said Persons, upon the Credit of the Act of Parliament, in the Year 1677, did furnish the same with Clothes, Utensils of War, Quarters, and other Necessaries, amounting to a very considerable Summ; not doubting but to receive full Satisfaction for the same, having their Credit built upon so Sacred a Security, as that of an Act of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>That it so happened, That the said Act, <hi>For Granting a Supply to His then Majesty, for Paying off, and Disbanding the said Forces,</hi> fell short of answering the End for which it was given: For that the said Army being employed to suppress the Re<g ref="char:EOLhyphen"/>bellion at <hi>Bothwell-Bridge,</hi> were kept longer in Pay than the time by the said Act directed; by Reason whereof, divers of the said Persons for want of their Money, (not being able to make good their Credit they obtained to supply the said Army) were forced into several Prisons of this Kingdom, where some died, and others still remain; and others were necessitated to abscond from their Families, and the rest have sustained great and apparent Damages thereby.</p>
+            <p>That they have often Address'd this Honourable House by Petitions, for Relief in their Misery, and your Honours have as often been pleased (which they grate<g ref="char:EOLhyphen"/>fully acknowledge) to make Orders thereon of References to Committees: And those Committees several times, <hi>viz.</hi> The 16th. of <hi>July,</hi> 1689 the 15th. of <hi>May,</hi> and the 25th. of <hi>November,</hi> 1690, Reported to your Honours the State of your Pe<g ref="char:EOLhyphen"/>titioners Debts, <hi>viz.</hi>
+            </p>
+            <q>That the Act, <hi>For Granting a Supply to His then Majesty King</hi> Charles <hi>the Second, of Two Hundred and Six Thousand Four Hundred Sixty Two Pound Seventeen Shillings and Three Pence, for Paying off and Disbanding the Forces raised since the</hi> 29th. <hi>of</hi> September, 1677. fell short of answering the End for which it was given, Principal Money Sixty One Thousand Nine Hundred Twenty Six Pound Three Shillings and Eleven Pence, besides Interest for the same, as the said Act di<g ref="char:EOLhyphen"/>rects: And that the said Sixty One Thousand Nine Hundred Twenty Six Pound Three Shillings and Eleven Pence is due for Quarters, Clothes, Ac<g ref="char:EOLhyphen"/>coutrements, <hi>&amp;c.</hi> as appeared by Certificates, signed by the then Commissio<g ref="char:EOLhyphen"/>ners for Disbanding the Army, and Orders of the then Lords of the Treasury thereupon directed to the <hi>Exchequer,</hi> where they are Registred; as likewise appeared by the Auditor, Sir <hi>Robert Howard</hi>'s Certificate thereof.</q>
+            <p>That upon the making of this, and such like Reports to the House, the House was as often pleased to Resolve to go into Committees of the whole House, to con<g ref="char:EOLhyphen"/>sider of Ways and Means for raising the Supply granted for the Payment of the said Debt, as by the several Entries in the Journals of this Honourable House will more fully appear: But approaching Prorogation, together with the then Necessities of the War, prevented your Compassionate and Just Intentions of giving them Relief.</p>
+            <p>
+               <hi>Wherefore, and in Regard the said Debt was contracted under the Credit of Acts of Parliament, It is humbly prayed. That your Honours will admit them into your Compassion and Justice, that their Case may be Considered and Relieved. Hoping your Honours (who are the Representatives of this Nation) will believe, That the satisfying this so just a National and Parliamentary Debt, will not only much redound to the Honour and Justice of this House, but will also increase the Credit of His Majesty's</hi> Exchequer <hi>upon the like, or any other Occasion.</hi>
+            </p>
+            <pb facs="tcp:205089:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
